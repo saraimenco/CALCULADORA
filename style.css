@@ -1,0 +1,30 @@
+/* IDS */
+#padre{
+    border: solid black;
+    position: absolute;
+    background-color: #F0FFFF	;
+    text-align: center;
+    width: 463px; left: 30%;
+    margin-top: 20%;
+}
+body{
+    background-color: #87CEEB	;
+}
+
+#titulo{
+    border: black;
+    font-family: monospace;
+}
+
+
+/* CLASES */
+.click{
+    font-family: monospace;
+    cursor: pointer;
+
+}
+
+.input{
+    cursor:text;
+}
+
